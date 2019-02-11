@@ -8,5 +8,8 @@ app.register_blueprint(admin_blue,url_prefix='/admin')
 def test():
     return 'ok'
 
+def aa():
+    return 'aa'
+
 if __name__ == '__main__':
     app.run()
