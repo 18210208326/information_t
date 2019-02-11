@@ -12,7 +12,7 @@ def index():
 
 @app.route("/test")
 def test():
-	return 'test'
+	return 'test ok'
 
 if __name__ == '__main__':
     app.run()
