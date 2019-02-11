@@ -11,9 +11,8 @@ def index():
     return 'ok test add 123'
 
 @app.route("/")
-def index2():
+def index1():
     return 'ok test add 123'
-
-
+    
 if __name__ == '__main__':
     app.run()
