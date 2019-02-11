@@ -14,5 +14,9 @@ def index():
 def test():
 	return 'test ok wsw'
 
+
+def test2():
+	return 'test2'
+
 if __name__ == '__main__':
     app.run()
