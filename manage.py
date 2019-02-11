@@ -10,5 +10,9 @@ app.config.from_object(Config)
 def index():
     return 'ok'
 
+@app.route("/test")
+def test():
+	return 'test'
+
 if __name__ == '__main__':
     app.run()
