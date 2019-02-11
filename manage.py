@@ -10,6 +10,9 @@ return 'ok'
 @app.route("/")
 def index():
     return 'ok test add 123'
+
+
+def admin
  
  print(####)
 
