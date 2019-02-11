@@ -18,5 +18,7 @@ def test():
 def test2():
 	return 'test2'
 
+def test4():
+	return 'test4'
 if __name__ == '__main__':
     app.run()
