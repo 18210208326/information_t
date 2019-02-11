@@ -8,7 +8,7 @@ app.config.from_object(Config)
 
 @app.route("/")
 def index():
-    return 'ok test'
+    return 'ok test add 123'
 
 @app.route("/test")
 def test():
