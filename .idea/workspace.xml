@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61daf0a4-cc70-4285-b35f-2b664d4ad7d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/modules/admin/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
     </list>
@@ -32,12 +31,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="251" />
+          <entry key="py" value="267" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="251" />
+          <entry key="Python" value="267" />
         </counts>
       </usages-collector>
     </session>
@@ -47,11 +46,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="53" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="53" />
+            <state relative-caret-position="198">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-                <marker date="1549893523726" expanded="true" signature="228:246" ph="..." />
+                <marker date="1549895559903" expanded="true" signature="255:272" ph="..." />
               </folding>
             </state>
           </provider>
@@ -132,12 +131,6 @@
               <item name="information_t" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="information_t" type="b2602c69:ProjectViewProjectNode" />
-              <item name="information_t" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -206,7 +199,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -214,7 +207,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32970026" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32970026" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -228,9 +221,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/admin/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -241,13 +231,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="53" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="53" />
+        <state relative-caret-position="198">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
-            <marker date="1549893523726" expanded="true" signature="228:246" ph="..." />
+            <marker date="1549895559903" expanded="true" signature="255:272" ph="..." />
           </folding>
         </state>
       </provider>
