@@ -10,5 +10,6 @@ app.config.from_object(Config)
 def index():
     return 'ok test add 123'
  
+ print(####)
 if __name__ == '__main__':
     app.run()
