@@ -12,5 +12,8 @@ def index():
     return 'ok test add 123'
  
  print(####)
+
+
+ print(32423423)
 if __name__ == '__main__':
     app.run()
